@@ -1,0 +1,13 @@
+html {
+    width: 70%;
+    margin: 15%;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h1,
+h3 {
+    font-family: arial, helvetica, sans-serif;
+}
